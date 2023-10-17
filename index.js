@@ -24,7 +24,6 @@ if (left > 0 && left < 360) {
 }
 
 
-undefined
 document.addEventListener("keydown", function(e) {
     if (e.key === "ArrowRight") {
         moveDodgerRight();
